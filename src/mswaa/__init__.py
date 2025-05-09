@@ -1,3 +1,1 @@
-#!/usr/bin/env python3
-
-from .impl import *
+from .scroll_accelerator import *
