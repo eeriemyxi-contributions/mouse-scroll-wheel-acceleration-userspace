@@ -2,7 +2,7 @@ import sys
 
 import better_exchook
 
-from . import main
+from .cli import main
 
 if __name__ == "__main__":
     better_exchook.install()

@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mswaa = "mswaa:main"
+mswaa = "mswaa.cli:main"
 
 [build-system]
 requires = ["hatchling"]
